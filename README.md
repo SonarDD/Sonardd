@@ -21,13 +21,16 @@ Na **Sonar Data Design**, somos apaixonados por converter a complexidade dos dad
 Clique e descubra como transformar dados em vantagem competitiva. 
 
 <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
-  <a href="https://sonardd.com.br/" target="_blank" style="display: inline-block; text-decoration: none; border: none; outline: none;">
+  <!-- Badge para o Site Oficial -->
+  <a href="https://sonardd.com.br/" target="_blank" style="text-decoration: none; border: none; outline: none; display: inline-flex; align-items: center;">
     <img loading="lazy" src="https://img.shields.io/badge/Sonar%20Data%20Design-Website-c8a2c8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Sonar Data Design Website">
   </a>
-  <a href="https://www.linkedin.com/company/sonar-power-bi/" target="_blank" style="display: inline-block; text-decoration: none; border: none; outline: none;">
+  <!-- Badge para o LinkedIn -->
+  <a href="https://www.linkedin.com/company/sonar-power-bi/" target="_blank" style="text-decoration: none; border: none; outline: none; display: inline-flex; align-items: center;">
     <img loading="lazy" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://wa.me/5516997858384" target="_blank" style="display: inline-block; text-decoration: none; border: none; outline: none;">
+  <!-- Badge para o WhatsApp -->
+  <a href="https://wa.me/5516997858384" target="_blank" style="text-decoration: none; border: none; outline: none; display: inline-flex; align-items: center;">
     <img loading="lazy" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </div>
